@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/redsprites/Codepath-Flashcards.git
-   cd flashcard-app
+   cd  Codepath-Flashcards
    npm install
    npm run dev
    ```
